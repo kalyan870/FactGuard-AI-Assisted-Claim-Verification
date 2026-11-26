@@ -27,3 +27,10 @@ This Vercel site rehosts the publicly published OnSpace frontend build; it is no
 ## Before presenting it as runnable
 
 Add the application source, data/source-citation design, setup steps, and an evaluation plan. A claim-verification result needs visible references and clear uncertainty; it should not be treated as authoritative fact-checking without those safeguards.
+
+## Architecture
+
+
+![FactGuard-AI-Assisted-Claim-Verification architecture map](docs/images/factguard-ai-assisted-claim-verification-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/factguard-ai-assisted-claim-verification-architecture.svg)
